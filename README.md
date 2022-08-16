@@ -6,6 +6,13 @@
 - 🎓 &nbsp; Full Stack Web Developer
 - 🌱 &nbsp; Learning more about ReactJs, Redux and NodeJs, and eager to learn new technologies.
 
+<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/mariano-ceballos/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Mariano%20Ceballos-blue?style=flat-square&logo=linkedin"></a>
+<a href="mailto:nanoceballostorres@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-nanoceballostorres@gmail.com-blue?style=flat-square&logo=Gmail"></a>
+</p>
+
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 🌐 &nbsp;
@@ -38,11 +45,6 @@
 
 <br/>
 
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
-<p align="center">
-<a href="https://www.linkedin.com/in/mariano-ceballos/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Mariano%20Ceballos-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:nanoceballostorres@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-nanoceballostorres@gmail.com-blue?style=flat-square&logo=Gmail"></a>
-</p>
 
 ⭐️ From [AM4772](https://github.com/AM4772)
