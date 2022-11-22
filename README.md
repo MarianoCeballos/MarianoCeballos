@@ -19,10 +19,12 @@
   ![HTML5](https://img.shields.io/badge/-HTML5-696969?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-696969?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-696969?style=flat&logo=javascript)
+  ![TypeScript](https://img.shields.io/badge/-Express-696969?style=flat&logo=typescript)
   ![React](https://img.shields.io/badge/-React-696969?style=flat&logo=react)
   ![Redux](https://img.shields.io/badge/-Redux-696969?style=flat&logo=redux)
   ![Node.js](https://img.shields.io/badge/-Node.js-696969?style=flat&logo=node.js)
   ![Express](https://img.shields.io/badge/-Express-696969?style=flat&logo=express)
+  
   
 - 🛢 &nbsp;
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-696969?style=flat&logo=postgreSQL)
