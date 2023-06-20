@@ -10,15 +10,14 @@
 <!-- Skills -->
 <h3 align="center"> 🛠 &nbsp;Tech Stack</h3>
 <p align="center">
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-696969?style=flat&logo=typescript" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-696969?style=flat&logo=javascript" />
+  <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-696969?style=flat&logo=node.js" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-696969?style=flat&logo=postgreSQL" />
+  <img alt="React" src="https://img.shields.io/badge/-React-696969?style=flat&logo=react" />
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-696969?style=flat&logo=HTML5" />
   <img alt="CSS" src="https://img.shields.io/badge/-CSS-696969?style=flat&logo=CSS3&logoColor=1572B6" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-696969?style=flat&logo=javascript" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-696969?style=flat&logo=typescript" />
-  <img alt="React" src="https://img.shields.io/badge/-React-696969?style=flat&logo=react" />
-  <img alt="Redux" src="https://img.shields.io/badge/-Redux-696969?style=flat&logo=redux" />
-  <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-696969?style=flat&logo=node.js" />
   <img alt="Express" src="https://img.shields.io/badge/-Express-696969?style=flat&logo=express" />
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-696969?style=flat&logo=postgreSQL" />
   <img alt="Sequelize" src="https://img.shields.io/badge/-Sequelize-696969?style=flat&logo=Sequelize" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-696969?style=flat&logo=git" />
   <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-696969?style=flat&logo=github" />
