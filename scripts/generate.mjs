@@ -3,8 +3,8 @@ import { mkdir, writeFile } from "node:fs/promises";
 const LOGIN = "MarianoCeballos";
 const TOKEN = process.env.GH_TOKEN;
 const OUT_DIR = "assets";
-const SHOWN_LANGUAGES = new Set(["TypeScript", "JavaScript", "HTML", "CSS", "SCSS"]);
-const LANGUAGE_LIMIT = 6;
+const MIN_CARD_HEIGHT = 260;
+const LANGUAGE_ROW_HEIGHT = 32;
 
 const COLORS = {
   background: "#0b1f44",
@@ -79,14 +79,17 @@ async function fetchLanguageSizes() {
     for (const repository of nodes) {
       for (const edge of repository.languages.edges) {
         const name = edge.node.name;
-        if (!SHOWN_LANGUAGES.has(name)) continue;
         sizes.set(name, (sizes.get(name) ?? 0) + edge.size);
       }
     }
     hasNextPage = pageInfo.hasNextPage;
     after = pageInfo.endCursor;
   }
-  return [...sizes.entries()].sort((a, b) => b[1] - a[1]).slice(0, LANGUAGE_LIMIT);
+  return [...sizes.entries()].filter(([, size]) => size > 0).sort((a, b) => b[1] - a[1]);
+}
+
+function cardHeightFor(languages) {
+  return Math.max(MIN_CARD_HEIGHT, 62 + languages.length * LANGUAGE_ROW_HEIGHT + 8);
 }
 
 function frame(width, height, title, body) {
@@ -98,13 +101,12 @@ function frame(width, height, title, body) {
 `;
 }
 
-function renderActivity(yearly) {
+function renderActivity(yearly, height) {
   const width = 480;
-  const height = 260;
   const left = 24;
   const right = 24;
-  const baseline = 210;
-  const plotHeight = 120;
+  const baseline = height - 50;
+  const plotHeight = height - 140;
   const maxValue = Math.max(...yearly.map((item) => item.contributions), 1);
   const slot = (width - left - right) / yearly.length;
   const barWidth = Math.min(48, slot * 0.6);
@@ -124,12 +126,11 @@ function renderActivity(yearly) {
   return frame(width, height, "Contributions per year", bars);
 }
 
-function renderLanguages(languages) {
+function renderLanguages(languages, height) {
   const width = 480;
-  const height = 260;
   const total = languages.reduce((sum, [, size]) => sum + size, 0) || 1;
   const trackWidth = 432;
-  const rowHeight = 32;
+  const rowHeight = LANGUAGE_ROW_HEIGHT;
 
   const rows = languages
     .map(([name, size], index) => {
@@ -174,11 +175,12 @@ function renderSummary(yearly, languages) {
 async function main() {
   if (!TOKEN) throw new Error("GH_TOKEN is required");
   const [yearly, languages] = await Promise.all([fetchYearlyActivity(), fetchLanguageSizes()]);
+  const height = cardHeightFor(languages);
   await mkdir(OUT_DIR, { recursive: true });
   await Promise.all([
     writeFile(`${OUT_DIR}/summary.svg`, renderSummary(yearly, languages)),
-    writeFile(`${OUT_DIR}/activity.svg`, renderActivity(yearly)),
-    writeFile(`${OUT_DIR}/languages.svg`, renderLanguages(languages)),
+    writeFile(`${OUT_DIR}/activity.svg`, renderActivity(yearly, height)),
+    writeFile(`${OUT_DIR}/languages.svg`, renderLanguages(languages, height)),
   ]);
   console.log(JSON.stringify({ yearly, languages: languages.map(([name]) => name) }));
 }
