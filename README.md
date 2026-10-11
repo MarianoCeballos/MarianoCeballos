@@ -49,6 +49,17 @@ Based in Córdoba, Argentina (UTC-3), working remotely. Trained at Henry's Full 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
+## 📊 Activity
+
+<p align="center">
+  <img src="assets/summary.svg" width="100%" alt="Contribution overview" />
+</p>
+
+<p align="center">
+  <img src="assets/activity.svg" width="49%" alt="Contributions per year" />
+  <img src="assets/languages.svg" width="49%" alt="Most used languages" />
+</p>
+
 ## 📫 Let's connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/mariano-ceballos/)

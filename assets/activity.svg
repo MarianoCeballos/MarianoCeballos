@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="260" viewBox="0 0 480 260" role="img" aria-label="Contributions per year">
+  <rect x="0.5" y="0.5" width="479" height="259" rx="10" fill="#0b1f44" stroke="#1e3a78"/>
+  <text x="24" y="36" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#ffffff">Contributions per year</text>
+  <rect x="43.2" y="116" width="48.0" height="94" rx="4" fill="#4ea1ff"/>
+  <text x="67.2" y="108" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#c9d6f2">570</text>
+  <text x="67.2" y="232" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#7f93c0">2022</text>
+  <rect x="129.6" y="112" width="48.0" height="98" rx="4" fill="#4ea1ff"/>
+  <text x="153.6" y="104" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#c9d6f2">592</text>
+  <text x="153.6" y="232" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#7f93c0">2023</text>
+  <rect x="216.0" y="90" width="48.0" height="120" rx="4" fill="#4ea1ff"/>
+  <text x="240.0" y="82" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#c9d6f2">727</text>
+  <text x="240.0" y="232" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#7f93c0">2024</text>
+  <rect x="302.4" y="146" width="48.0" height="64" rx="4" fill="#4ea1ff"/>
+  <text x="326.4" y="138" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#c9d6f2">387</text>
+  <text x="326.4" y="232" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#7f93c0">2025</text>
+  <rect x="388.8" y="92" width="48.0" height="118" rx="4" fill="#4ea1ff"/>
+  <text x="412.8" y="84" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#c9d6f2">714</text>
+  <text x="412.8" y="232" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#7f93c0">2026</text>
+</svg>
