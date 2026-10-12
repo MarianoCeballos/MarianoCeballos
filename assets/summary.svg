@@ -1,11 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="980" height="120" viewBox="0 0 980 120" role="img" aria-label="Overview">
   <rect x="0.5" y="0.5" width="979" height="119" rx="10" fill="#0b1f44" stroke="#1e3a78"/>
   <text x="24" y="36" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#ffffff">Overview</text>
-  <text x="24" y="72" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="34" font-weight="700" fill="#4ea1ff">2,992</text>
+  <text x="24" y="72" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="34" font-weight="700" fill="#4ea1ff">3,008</text>
   <text x="24" y="98" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#7f93c0">Contributions</text>
   <text x="257" y="72" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="34" font-weight="700" fill="#4ea1ff">5</text>
   <text x="257" y="98" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#7f93c0">Years active</text>
-  <text x="490" y="72" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="34" font-weight="700" fill="#4ea1ff">598</text>
+  <text x="490" y="72" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="34" font-weight="700" fill="#4ea1ff">602</text>
   <text x="490" y="98" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#7f93c0">Average per year</text>
   <text x="723" y="72" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="34" font-weight="700" fill="#4ea1ff">TypeScript</text>
   <text x="723" y="98" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#7f93c0">Main language</text>
