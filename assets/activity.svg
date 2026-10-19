@@ -1,19 +1,19 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="480" height="454" viewBox="0 0 480 454" role="img" aria-label="Contributions per year">
   <rect x="0.5" y="0.5" width="479" height="453" rx="10" fill="#0b1f44" stroke="#1e3a78"/>
   <text x="24" y="36" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#ffffff">Contributions per year</text>
-  <rect x="43.2" y="162" width="48.0" height="242" rx="4" fill="#4ea1ff"/>
-  <text x="67.2" y="154" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#c9d6f2">569</text>
+  <rect x="43.2" y="163" width="48.0" height="241" rx="4" fill="#4ea1ff"/>
+  <text x="67.2" y="155" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#c9d6f2">569</text>
   <text x="67.2" y="426" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#7f93c0">2022</text>
-  <rect x="129.6" y="152" width="48.0" height="252" rx="4" fill="#4ea1ff"/>
-  <text x="153.6" y="144" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#c9d6f2">592</text>
+  <rect x="129.6" y="153" width="48.0" height="251" rx="4" fill="#4ea1ff"/>
+  <text x="153.6" y="145" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#c9d6f2">592</text>
   <text x="153.6" y="426" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#7f93c0">2023</text>
-  <rect x="216.0" y="95" width="48.0" height="309" rx="4" fill="#4ea1ff"/>
-  <text x="240.0" y="87" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#c9d6f2">727</text>
+  <rect x="216.0" y="96" width="48.0" height="308" rx="4" fill="#4ea1ff"/>
+  <text x="240.0" y="88" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#c9d6f2">727</text>
   <text x="240.0" y="426" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#7f93c0">2024</text>
-  <rect x="302.4" y="239" width="48.0" height="165" rx="4" fill="#4ea1ff"/>
-  <text x="326.4" y="231" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#c9d6f2">387</text>
+  <rect x="302.4" y="240" width="48.0" height="164" rx="4" fill="#4ea1ff"/>
+  <text x="326.4" y="232" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#c9d6f2">387</text>
   <text x="326.4" y="426" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#7f93c0">2025</text>
   <rect x="388.8" y="90" width="48.0" height="314" rx="4" fill="#4ea1ff"/>
-  <text x="412.8" y="82" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#c9d6f2">738</text>
+  <text x="412.8" y="82" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#c9d6f2">740</text>
   <text x="412.8" y="426" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#7f93c0">2026</text>
 </svg>
