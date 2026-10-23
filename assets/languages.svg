@@ -1,32 +1,32 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="454" viewBox="0 0 480 454" role="img" aria-label="Languages">
-  <rect x="0.5" y="0.5" width="479" height="453" rx="10" fill="#0b1f44" stroke="#1e3a78"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="486" viewBox="0 0 480 486" role="img" aria-label="Languages">
+  <rect x="0.5" y="0.5" width="479" height="485" rx="10" fill="#0b1f44" stroke="#1e3a78"/>
   <text x="24" y="36" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#ffffff">Languages</text>
   <text x="24" y="62" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#c9d6f2">TypeScript</text>
-  <text x="456" y="62" text-anchor="end" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#7f93c0">55.3%</text>
+  <text x="456" y="62" text-anchor="end" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#7f93c0">57.4%</text>
   <rect x="24" y="69" width="432" height="6" rx="3" fill="#162c5c"/>
-  <rect x="24" y="69" width="239" height="6" rx="3" fill="#4ea1ff"/>
+  <rect x="24" y="69" width="248" height="6" rx="3" fill="#4ea1ff"/>
   <text x="24" y="94" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#c9d6f2">JavaScript</text>
-  <text x="456" y="94" text-anchor="end" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#7f93c0">19.0%</text>
+  <text x="456" y="94" text-anchor="end" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#7f93c0">18.1%</text>
   <rect x="24" y="101" width="432" height="6" rx="3" fill="#162c5c"/>
-  <rect x="24" y="101" width="82" height="6" rx="3" fill="#4ea1ff"/>
+  <rect x="24" y="101" width="78" height="6" rx="3" fill="#4ea1ff"/>
   <text x="24" y="126" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#c9d6f2">Python</text>
-  <text x="456" y="126" text-anchor="end" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#7f93c0">9.9%</text>
+  <text x="456" y="126" text-anchor="end" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#7f93c0">9.4%</text>
   <rect x="24" y="133" width="432" height="6" rx="3" fill="#162c5c"/>
-  <rect x="24" y="133" width="43" height="6" rx="3" fill="#4ea1ff"/>
+  <rect x="24" y="133" width="41" height="6" rx="3" fill="#4ea1ff"/>
   <text x="24" y="158" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#c9d6f2">HTML</text>
-  <text x="456" y="158" text-anchor="end" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#7f93c0">8.8%</text>
+  <text x="456" y="158" text-anchor="end" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#7f93c0">8.4%</text>
   <rect x="24" y="165" width="432" height="6" rx="3" fill="#162c5c"/>
-  <rect x="24" y="165" width="38" height="6" rx="3" fill="#4ea1ff"/>
+  <rect x="24" y="165" width="36" height="6" rx="3" fill="#4ea1ff"/>
   <text x="24" y="190" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#c9d6f2">Sass</text>
-  <text x="456" y="190" text-anchor="end" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#7f93c0">4.2%</text>
+  <text x="456" y="190" text-anchor="end" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#7f93c0">4.0%</text>
   <rect x="24" y="197" width="432" height="6" rx="3" fill="#162c5c"/>
-  <rect x="24" y="197" width="18" height="6" rx="3" fill="#4ea1ff"/>
+  <rect x="24" y="197" width="17" height="6" rx="3" fill="#4ea1ff"/>
   <text x="24" y="222" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#c9d6f2">Handlebars</text>
   <text x="456" y="222" text-anchor="end" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#7f93c0">0.7%</text>
   <rect x="24" y="229" width="432" height="6" rx="3" fill="#162c5c"/>
   <rect x="24" y="229" width="4" height="6" rx="3" fill="#4ea1ff"/>
   <text x="24" y="254" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#c9d6f2">C#</text>
-  <text x="456" y="254" text-anchor="end" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#7f93c0">0.7%</text>
+  <text x="456" y="254" text-anchor="end" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#7f93c0">0.6%</text>
   <rect x="24" y="261" width="432" height="6" rx="3" fill="#162c5c"/>
   <rect x="24" y="261" width="4" height="6" rx="3" fill="#4ea1ff"/>
   <text x="24" y="286" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#c9d6f2">CSS</text>
@@ -49,4 +49,8 @@
   <text x="456" y="414" text-anchor="end" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#7f93c0">0.1%</text>
   <rect x="24" y="421" width="432" height="6" rx="3" fill="#162c5c"/>
   <rect x="24" y="421" width="4" height="6" rx="3" fill="#4ea1ff"/>
+  <text x="24" y="446" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#c9d6f2">PowerShell</text>
+  <text x="456" y="446" text-anchor="end" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#7f93c0">0.1%</text>
+  <rect x="24" y="453" width="432" height="6" rx="3" fill="#162c5c"/>
+  <rect x="24" y="453" width="4" height="6" rx="3" fill="#4ea1ff"/>
 </svg>
