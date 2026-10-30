@@ -6,15 +6,15 @@
   <rect x="24" y="69" width="432" height="6" rx="3" fill="#162c5c"/>
   <rect x="24" y="69" width="248" height="6" rx="3" fill="#4ea1ff"/>
   <text x="24" y="94" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#c9d6f2">JavaScript</text>
-  <text x="456" y="94" text-anchor="end" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#7f93c0">18.1%</text>
+  <text x="456" y="94" text-anchor="end" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#7f93c0">18.0%</text>
   <rect x="24" y="101" width="432" height="6" rx="3" fill="#162c5c"/>
   <rect x="24" y="101" width="78" height="6" rx="3" fill="#4ea1ff"/>
   <text x="24" y="126" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#c9d6f2">Python</text>
   <text x="456" y="126" text-anchor="end" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#7f93c0">9.4%</text>
   <rect x="24" y="133" width="432" height="6" rx="3" fill="#162c5c"/>
-  <rect x="24" y="133" width="41" height="6" rx="3" fill="#4ea1ff"/>
+  <rect x="24" y="133" width="40" height="6" rx="3" fill="#4ea1ff"/>
   <text x="24" y="158" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#c9d6f2">HTML</text>
-  <text x="456" y="158" text-anchor="end" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#7f93c0">8.4%</text>
+  <text x="456" y="158" text-anchor="end" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#7f93c0">8.3%</text>
   <rect x="24" y="165" width="432" height="6" rx="3" fill="#162c5c"/>
   <rect x="24" y="165" width="36" height="6" rx="3" fill="#4ea1ff"/>
   <text x="24" y="190" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#c9d6f2">Sass</text>
@@ -33,23 +33,23 @@
   <text x="456" y="286" text-anchor="end" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#7f93c0">0.6%</text>
   <rect x="24" y="293" width="432" height="6" rx="3" fill="#162c5c"/>
   <rect x="24" y="293" width="4" height="6" rx="3" fill="#4ea1ff"/>
-  <text x="24" y="318" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#c9d6f2">TeX</text>
+  <text x="24" y="318" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#c9d6f2">PowerShell</text>
   <text x="456" y="318" text-anchor="end" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#7f93c0">0.3%</text>
   <rect x="24" y="325" width="432" height="6" rx="3" fill="#162c5c"/>
   <rect x="24" y="325" width="4" height="6" rx="3" fill="#4ea1ff"/>
-  <text x="24" y="350" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#c9d6f2">SCSS</text>
+  <text x="24" y="350" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#c9d6f2">TeX</text>
   <text x="456" y="350" text-anchor="end" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#7f93c0">0.2%</text>
   <rect x="24" y="357" width="432" height="6" rx="3" fill="#162c5c"/>
   <rect x="24" y="357" width="4" height="6" rx="3" fill="#4ea1ff"/>
-  <text x="24" y="382" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#c9d6f2">MDX</text>
-  <text x="456" y="382" text-anchor="end" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#7f93c0">0.1%</text>
+  <text x="24" y="382" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#c9d6f2">SCSS</text>
+  <text x="456" y="382" text-anchor="end" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#7f93c0">0.2%</text>
   <rect x="24" y="389" width="432" height="6" rx="3" fill="#162c5c"/>
   <rect x="24" y="389" width="4" height="6" rx="3" fill="#4ea1ff"/>
-  <text x="24" y="414" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#c9d6f2">Dockerfile</text>
+  <text x="24" y="414" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#c9d6f2">MDX</text>
   <text x="456" y="414" text-anchor="end" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#7f93c0">0.1%</text>
   <rect x="24" y="421" width="432" height="6" rx="3" fill="#162c5c"/>
   <rect x="24" y="421" width="4" height="6" rx="3" fill="#4ea1ff"/>
-  <text x="24" y="446" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#c9d6f2">PowerShell</text>
+  <text x="24" y="446" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#c9d6f2">Dockerfile</text>
   <text x="456" y="446" text-anchor="end" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" fill="#7f93c0">0.1%</text>
   <rect x="24" y="453" width="432" height="6" rx="3" fill="#162c5c"/>
   <rect x="24" y="453" width="4" height="6" rx="3" fill="#4ea1ff"/>
